@@ -4,6 +4,7 @@
   "description": "router lit",
   "main": "app.js",
   "scripts": {
+    "start": "web-dev-server --node-resolve --watch --open",
     "test": "test"
   },
   "repository": {
@@ -15,5 +16,12 @@
     "lit"
   ],
   "author": "Salino3",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@vaadin/router": "^1.7.5",
+    "lit": "^3.1.2"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.4.2"
+  }
 }
