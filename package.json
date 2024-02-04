@@ -1,0 +1,19 @@
+{
+  "name": "lesson-04-router-lit",
+  "version": "1.0.0",
+  "description": "router lit",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lesson-04-router-lit"
+  },
+  "keywords": [
+    "router",
+    "lit"
+  ],
+  "author": "Salino3",
+  "license": "ISC"
+}
